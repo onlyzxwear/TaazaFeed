@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "TaazaFeed",
+    "slug": "taazafeed",
+    "scheme": "taazafeed",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true },
+    "web": { "bundler": "metro" }
+  }
+}
